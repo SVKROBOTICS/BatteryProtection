@@ -1,6 +1,6 @@
 #include <BatteryProtection.h>
 
-BatteryProtection battery(0);  // Analog pin A0
+BatteryProtection battery(A2);  // Initialize with analog pin A2 (This is where you specify the analog pin connected to the battery monitoring sensor)
 
 void setup() {
   // No setup required
