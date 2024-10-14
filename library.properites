@@ -1,6 +1,6 @@
 name=BatteryProtection
 version=1.0.0
-author=Sotiris Kalaitzakis <info@svkrobotics.com>
+author=Sotiris Kalaitzakis
 maintainer=Sotiris Kalaitzakis <info@svkrobotics.com>
 sentence=Protect your battery by monitoring voltage and halting the program if voltage drops below a safe level.
 paragraph=This library reads the voltage from an analog pin and halts the program if the voltage drops below a safe threshold to prevent battery damage. It uses millis() for non-blocking periodic checks.
