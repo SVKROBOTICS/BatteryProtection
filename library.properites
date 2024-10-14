@@ -7,3 +7,5 @@ paragraph=This library reads the voltage from an analog pin and halts the progra
 category=Sensors
 url=https://github.com/SVKROBOTICS/BatteryProtection
 architectures=*
+
+examples=Example Battery Protection
