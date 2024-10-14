@@ -8,4 +8,4 @@ category=Sensors
 url=https://github.com/SVKROBOTICS/BatteryProtection
 architectures=*
 
-examples=Example Battery Protection
+examples=ExampleBatteryProtection
